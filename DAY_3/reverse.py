@@ -1,3 +1,3 @@
 class Solution:
     def reverseString(self, s):
-        s.reverse()
+        print(s.reverse())
